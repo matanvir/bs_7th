@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+.alert-custom{
+	color: black;
+	border: 2px solid #ddd;
+	background-color: #ddd;
+}
+.btn-custom{
+	color: black;
+	border: 2px solid #eeee;
+	background-color: #eeee;
+}
